@@ -1,4 +1,5 @@
 # FeedWhats
-News feed that allows to share content to whats app
 
-App to search famous feeds and share in whatapp
+## News feed that allows to share content to Whatsapp
+
+## App to search famous feeds and share in Whatsapp
